@@ -1,0 +1,20 @@
+# Archivos y directorios generados por Python
+__pycache__/
+*.pyc
+
+# Dependencias de Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Archivos de registro y datos generados
+data/
+
+# Archivos y directorios específicos de Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Entorno específico de Python (por ejemplo, Jupyter Notebooks)
+.ipynb_checkpoints/
+
