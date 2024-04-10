@@ -33,7 +33,7 @@ Finalmente, tendrás el proyecto abierto en vsco y ejecudandose dentro del conte
 Cada que instales una package actualiza el requeriments.txt
 
 ```
-pip freeze >> requeriments.txt
+pip freeze > requeriments.txt
 ```
 
 Se sobreescribira el archivo y ahora incluira las nuevas librerias.
